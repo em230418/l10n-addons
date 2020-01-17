@@ -19,9 +19,12 @@
 
     "depends": [
         'base_address_city',
+        'contacts',
     ],
     "external_dependencies": {"python": [], "bin": []},
     "data": [
+        'security/ir.model.access.csv',
+        'views/contact_views.xml',
     ],
     "demo": [
     ],

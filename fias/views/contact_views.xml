@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2020 Eugene Molotov <https://it-projects.info/team/em230418>
+    License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl.html). -->
+<odoo>
+
+    <menuitem id="menu_city_partner"
+        action="base_address_city.action_res_city_tree" parent="contacts.menu_localisation"
+        sequence="5"/>
+
+    <record id="view_city_tree_add_okato" model="ir.ui.view">
+        <field name="model">res.city</field>
+        <field name="inherit_id" ref="base_address_city.view_city_tree" />
+        <field name="arch" type="xml">
+            <xpath expr="//tree/field[@name='name']" position="after">
+                <field name="fias_okato" />
+                <field name="fias_oktmo" />
+            </xpath>
+        </field>
+    </record>
+
+    <record id="view_state_district_tree" model="ir.ui.view">
+        <field name="model">res.state.district</field>
+        <field name="arch" type="xml">
+            <tree>
+                <field name="name"/>
+                <field name="fias_okato" />
+                <field name="fias_oktmo" />
+                <field name="state_id"/>
+            </tree>
+        </field>
+    </record>
+
+    <record id="action_res_state_district_list" model="ir.actions.act_window">
+        <field name="name">Районы</field>
+        <field name="type">ir.actions.act_window</field>
+        <field name="res_model">res.state.district</field>
+        <field name="view_type">form</field>
+        <field name="view_mode">list</field>
+    </record>
+
+    <menuitem id="menu_state_district_partner"
+        action="action_res_state_district_list" parent="contacts.menu_localisation"
+        sequence="4"/>
+
+</odoo>
