@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+    <record id="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" model="res.country.state">
+        <field name="code">63</field>
+        <field name="name">Самарская</field>
+        <field name="fias_okato">36000000000</field>
+        <field name="fias_aoguid">df3d7359-afa9-4aaa-8ff9-197e73906b1c</field>
+        <field name="country_id" ref="base.ru" />
+    </record>
+
+</odoo>

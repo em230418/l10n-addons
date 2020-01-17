@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+    <record id="fias_2c903bfd_fa49_4080_805b_fd4f24ba1603" model="res.state.district">
+        <field name="name">Алексеевский</field>
+        <field name="fias_okato">36202000000</field>
+        <field name="fias_oktmo">36602000</field>
+        <field name="fias_aoguid">2c903bfd-fa49-4080-805b-fd4f24ba1603</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_64be3cc5_175c_4a52_87f2_e106121e6011" model="res.state.district">
+        <field name="name">Безенчукский</field>
+        <field name="fias_okato">36204000000</field>
+        <field name="fias_oktmo">36604000</field>
+        <field name="fias_aoguid">64be3cc5-175c-4a52-87f2-e106121e6011</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_8b4714f8_2924_41e6_904a_4ee2d8e56141" model="res.state.district">
+        <field name="name">Богатовский</field>
+        <field name="fias_okato">36206000000</field>
+        <field name="fias_oktmo">36606000</field>
+        <field name="fias_aoguid">8b4714f8-2924-41e6-904a-4ee2d8e56141</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_1f1f02f3_4c2d_476b_aa80_769cc45eacc8" model="res.state.district">
+        <field name="name">Большеглушицкий</field>
+        <field name="fias_okato">36208000000</field>
+        <field name="fias_oktmo">36608000</field>
+        <field name="fias_aoguid">1f1f02f3-4c2d-476b-aa80-769cc45eacc8</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_c2be48d4_240a_401e_8462_446a0433df80" model="res.state.district">
+        <field name="name">Большечерниговский</field>
+        <field name="fias_okato">36210000000</field>
+        <field name="fias_oktmo">36610000</field>
+        <field name="fias_aoguid">c2be48d4-240a-401e-8462-446a0433df80</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_530671ae_3985_40b3_8a21_2481cdf0bdc5" model="res.state.district">
+        <field name="name">Борский</field>
+        <field name="fias_okato">36212000000</field>
+        <field name="fias_aoguid">530671ae-3985-40b3-8a21-2481cdf0bdc5</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_f787453e_561b_4d05_91db_e3f731be44d9" model="res.state.district">
+        <field name="name">Елховский</field>
+        <field name="fias_okato">36215000000</field>
+        <field name="fias_aoguid">f787453e-561b-4d05-91db-e3f731be44d9</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_b32e30da_45fe_478c_ae05_5cd47772ffcf" model="res.state.district">
+        <field name="name">Исаклинский</field>
+        <field name="fias_okato">36216000000</field>
+        <field name="fias_oktmo">36616000</field>
+        <field name="fias_aoguid">b32e30da-45fe-478c-ae05-5cd47772ffcf</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_827ff414_4a05_4702_a43e_4f4c53639ba6" model="res.state.district">
+        <field name="name">Камышлинский</field>
+        <field name="fias_okato">36217820001</field>
+        <field name="fias_oktmo">36617000</field>
+        <field name="fias_aoguid">827ff414-4a05-4702-a43e-4f4c53639ba6</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_29c6074e_5d59_48e9_a2e6_f8abe3aaca3a" model="res.state.district">
+        <field name="name">Кинель-Черкасский</field>
+        <field name="fias_okato">36220000000</field>
+        <field name="fias_oktmo">36620000</field>
+        <field name="fias_aoguid">29c6074e-5d59-48e9-a2e6-f8abe3aaca3a</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_f75d18d4_47f4_42db_b105_acde9933fe90" model="res.state.district">
+        <field name="name">Кинельский</field>
+        <field name="fias_okato">36218000000</field>
+        <field name="fias_oktmo">36618000</field>
+        <field name="fias_aoguid">f75d18d4-47f4-42db-b105-acde9933fe90</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_f9992965_0044_42fa_b0c3_0e6b84ad4e18" model="res.state.district">
+        <field name="name">Клявлинский</field>
+        <field name="fias_okato">36222000000</field>
+        <field name="fias_oktmo">36622000</field>
+        <field name="fias_aoguid">f9992965-0044-42fa-b0c3-0e6b84ad4e18</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_38d094f5_7e47_4a06_8d3e_397c561b77d6" model="res.state.district">
+        <field name="name">Кошкинский</field>
+        <field name="fias_okato">36224000000</field>
+        <field name="fias_oktmo">36624000</field>
+        <field name="fias_aoguid">38d094f5-7e47-4a06-8d3e-397c561b77d6</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_f808da14_04ec_456b_927e_0d342b2b1df0" model="res.state.district">
+        <field name="name">Красноармейский</field>
+        <field name="fias_okato">36226000000</field>
+        <field name="fias_oktmo">36626000</field>
+        <field name="fias_aoguid">f808da14-04ec-456b-927e-0d342b2b1df0</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_a575d77d_c43c_470e_9c67_24b2b55f959a" model="res.state.district">
+        <field name="name">Красноярский</field>
+        <field name="fias_okato">36228000000</field>
+        <field name="fias_aoguid">a575d77d-c43c-470e-9c67-24b2b55f959a</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_b7699806_253c_42f4_8275_616d9d86f88e" model="res.state.district">
+        <field name="name">Нефтегорский</field>
+        <field name="fias_okato">36230000000</field>
+        <field name="fias_aoguid">b7699806-253c-42f4-8275-616d9d86f88e</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_b93d0cdf_2f08_4c8e_9582_88d1c638a1c2" model="res.state.district">
+        <field name="name">Пестравский</field>
+        <field name="fias_okato">36232000000</field>
+        <field name="fias_oktmo">36632000</field>
+        <field name="fias_aoguid">b93d0cdf-2f08-4c8e-9582-88d1c638a1c2</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_bcd80b12_bad7_4a0e_b4d7_b6ee740bf7d4" model="res.state.district">
+        <field name="name">Похвистневский</field>
+        <field name="fias_okato">36234000000</field>
+        <field name="fias_oktmo">36634000</field>
+        <field name="fias_aoguid">bcd80b12-bad7-4a0e-b4d7-b6ee740bf7d4</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_fcae79d1_60bb_421c_9ec7_8256fa2b31c6" model="res.state.district">
+        <field name="name">Приволжский</field>
+        <field name="fias_okato">36236000000</field>
+        <field name="fias_oktmo">36636000</field>
+        <field name="fias_aoguid">fcae79d1-60bb-421c-9ec7-8256fa2b31c6</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_91a9d70f_c6a4_4e89_9626_9ce57f2d14b5" model="res.state.district">
+        <field name="name">Сергиевский</field>
+        <field name="fias_okato">36238000000</field>
+        <field name="fias_oktmo">36638000</field>
+        <field name="fias_aoguid">91a9d70f-c6a4-4e89-9626-9ce57f2d14b5</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_75d5f658_5d33_4fb1_af85_97653e397307" model="res.state.district">
+        <field name="name">Ставропольский</field>
+        <field name="fias_okato">36240000000</field>
+        <field name="fias_aoguid">75d5f658-5d33-4fb1-af85-97653e397307</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_c060bcb7_138a_4b1e_ad38_601eac87dc19" model="res.state.district">
+        <field name="name">Сызранский</field>
+        <field name="fias_okato">36242000000</field>
+        <field name="fias_aoguid">c060bcb7-138a-4b1e-ad38-601eac87dc19</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_14cd7e4d_1845_4fd4_ba82_f2d2c16734c9" model="res.state.district">
+        <field name="name">Хворостянский</field>
+        <field name="fias_okato">36244000000</field>
+        <field name="fias_oktmo">36644000</field>
+        <field name="fias_aoguid">14cd7e4d-1845-4fd4-ba82-f2d2c16734c9</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_20003100_5f16_4c6e_a1ff_424686faf01a" model="res.state.district">
+        <field name="name">Челно-Вершинский</field>
+        <field name="fias_okato">36246000000</field>
+        <field name="fias_oktmo">36646000</field>
+        <field name="fias_aoguid">20003100-5f16-4c6e-a1ff-424686faf01a</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_4ca64322_8b50_4f10_91d4_d5a0748d731a" model="res.state.district">
+        <field name="name">Шенталинский</field>
+        <field name="fias_okato">36248000000</field>
+        <field name="fias_oktmo">36648000</field>
+        <field name="fias_aoguid">4ca64322-8b50-4f10-91d4-d5a0748d731a</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_0d3e1d02_967c_4464_b931_39d8f4495be3" model="res.state.district">
+        <field name="name">Шигонский</field>
+        <field name="fias_okato">36250000000</field>
+        <field name="fias_aoguid">0d3e1d02-967c-4464-b931-39d8f4495be3</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+    <record id="fias_7e27aa90_d423_4393_a3a4_332c219dfb4b" model="res.state.district">
+        <field name="name">Волжский</field>
+        <field name="fias_okato">36214000000</field>
+        <field name="fias_oktmo">36614000</field>
+        <field name="fias_aoguid">7e27aa90-d423-4393-a3a4-332c219dfb4b</field>
+        <field name="state_id" ref="fias_df3d7359_afa9_4aaa_8ff9_197e73906b1c" />
+    </record>
+
+</odoo>
